@@ -1,1 +1,1 @@
-web: sh create_config.sh && streamlit run Saransh.py
+web: sh config.sh && streamlit run Saransh.py
